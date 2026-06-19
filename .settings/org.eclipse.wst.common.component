@@ -2,6 +2,7 @@
     <wb-module deploy-name="uniSpring">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resouces"/>
         <property name="context-root" value="uniSpring"/>
         <property name="java-output-path" value="/uniSpring/build/classes"/>
     </wb-module>
